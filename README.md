@@ -6,4 +6,4 @@ CyStack's assessment solution analyzes the source code and the implementation of
 Please refer to https://cystack.net/services/smart-contract-audit to get more information
 
 ## About this project
-This repo contains public reports of the Smart Contract Audit performed by CyStack. This repo contains public reports of the Smart Contract Audit performed by CyStack. Those reports are made by the request of our customers or by the independent analysis of our research team.
+This repo contains public reports of the Smart Contract Audit performed by CyStack. Those reports are made by the request of our customers or by the independent analysis of our research team.
